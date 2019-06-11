@@ -1,5 +1,5 @@
 # leetcode
-记录leetcode中的一些解题心得
+使用Swift实现leetcode中的一些解题
 
 ## [Array](https://github.com/jiangleligejiang/leetcode/tree/master/array)
 

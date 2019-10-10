@@ -1,3 +1,9 @@
+# swift-algorithm
+使用swift实现的常用算法
+
+- [Stack](https://github.com/jiangleligejiang/swift-leetcode/blob/master/swift-algorithm/Stack/Stack.playground/Contents.swift)
+- [Queue](https://github.com/jiangleligejiang/swift-leetcode/blob/master/swift-algorithm/Queue/Queue.playground/Contents.swift)
+
 # leetcode
 使用Swift实现leetcode中的一些解题
 
